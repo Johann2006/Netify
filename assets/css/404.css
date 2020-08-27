@@ -14,7 +14,7 @@ body {
     margin: 0;
     font-family: "Roboto", sans-serif;
     font-size: 100%;
-    background-image: url("../images/dirt_scree.png");
+    background-image: url("../images/dirt_screen.png");
 	background-size: contain;
     background-repeat: repeat;
 }
@@ -85,7 +85,6 @@ input {
 button,
 select {
     text-transform: none;
-}
 
 button,
 [type="button"],
@@ -204,7 +203,7 @@ header {
     background-position: center center;
     background-size: cover;
     background-attachment: fixed;
-    height: 400px;
+    height: 600px;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
